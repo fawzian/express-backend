@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Rental App",
+      "live": "https://upbeat-visvesvaraya-cd506c.netlify.app/",
+      "git": "https://github.com/fawzian/realestateproject",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Travel Tracker",
+      "live": "https://github.com/fawzian/travel-project",
+      "git": "https://github.com/fawzian/travel-project",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
