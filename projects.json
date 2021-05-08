@@ -3,12 +3,12 @@
       "name": "Rental App",
       "live": "https://upbeat-visvesvaraya-cd506c.netlify.app/",
       "git": "https://github.com/fawzian/realestateproject",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "https://imgur.com/Lh5og9f"
     },
     {
       "name": "Travel Tracker",
-      "live": "https://github.com/fawzian/travel-project",
+      "live": "https://salty-springs-56460.herokuapp.com/",
       "git": "https://github.com/fawzian/travel-project",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "https://imgur.com/a/7kU5Lkh"
     }
   ]
